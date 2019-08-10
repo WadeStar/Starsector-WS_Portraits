@@ -1,7 +1,7 @@
 # Starsector-WS_Portraits
 A very simple mod for Starsector that adds more portraits to the game.
 
-To install this mod, copy the "wsMod" folder and its contents into your Starsector "mods" directory. Choose the mod from the splash screen.
+To install this mod, copy the "wsMod" folder and its contents into your Starsector "mods" directory. Start the game and enable the mod from the splash screen's mod menu.
 
 An easy way to obtain the folder with minimal fuss is to click the green "clone or download" button. Save the resulting zip file, and then extract the "wsMod" folder from there.
 
