@@ -1,0 +1,7 @@
+{
+  "id":"wsMod", # internal id
+	"name":"WadeStar's Portrait Pack", # displayed to the player
+	"version":"0.0.1",
+	"description":"Portraits for the game.",
+	"gameVersion":"0.9.0a",
+}

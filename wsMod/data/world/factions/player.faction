@@ -1,0 +1,10 @@
+{
+	"portraits":{
+		"standard_female":[
+			"graphics/ws/portraits/ws_justin_bailey.png",
+		],
+		"standard_male":[
+			"graphics/ws/portraits/ws_wade_star.png",
+		],
+	},
+}
